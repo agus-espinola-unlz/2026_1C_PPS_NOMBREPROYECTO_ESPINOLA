@@ -63,15 +63,15 @@ Donde:
 
 ---
 
-# [TÍTULO DEL PROYECTO]
+# [Práctica Profesional Supervisada]
 
-**Tipo:** [PPS | PF]  
-**Año:** [2026] — **Cuatrimestre:** [1C | 2C]  
+**Tipo:** PPS  
+**Año:** 2026 — **Cuatrimestre:** 1C  
 
 **Carrera:** Ingeniería Mecatrónica  
-**Materia / Curso:** [NOMBRE_DE_LA_MATERIA]  
-**Docente / Cátedra:** [NOMBRE_DOCENTE]  
-**Autor/es:** [APELLIDO, Nombre — Legajo] · [APELLIDO, Nombre — Legajo]
+**Materia / Curso:** Práctica Profesional Supervisada  
+**Docente / Cátedra:** Cristian Lucasze  
+**Autor/es:** ESPINOLA BOGADO, Matias Agustin
 
 ---
 
